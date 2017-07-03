@@ -1,4 +1,4 @@
-package Entity;
+package com.zjgsu.Entity;
 
 import java.io.Serializable;
 import java.util.List;

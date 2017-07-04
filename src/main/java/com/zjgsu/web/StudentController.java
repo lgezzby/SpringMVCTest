@@ -1,6 +1,6 @@
 package com.zjgsu.web;
 
-import com.zjgsu.Entity.Student;
+import com.zjgsu.entity.Student;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;

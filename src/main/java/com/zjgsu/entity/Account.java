@@ -1,4 +1,4 @@
-package com.zjgsu.Entity;
+package com.zjgsu.entity;
 
 import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.format.annotation.NumberFormat;

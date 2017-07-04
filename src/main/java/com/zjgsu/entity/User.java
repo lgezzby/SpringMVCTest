@@ -1,4 +1,4 @@
-package com.zjgsu.Entity;
+package com.zjgsu.entity;
 
 import java.io.Serializable;
 

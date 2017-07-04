@@ -1,6 +1,6 @@
 package com.zjgsu.web;
 
-import com.zjgsu.Entity.Account;
+import com.zjgsu.entity.Account;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Controller;
